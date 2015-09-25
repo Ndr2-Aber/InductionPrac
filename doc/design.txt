@@ -1,2 +1,2 @@
-This is a line of text, there are many like it but this one 
+This is a file, there are maNy like it but this one
 is mine.
